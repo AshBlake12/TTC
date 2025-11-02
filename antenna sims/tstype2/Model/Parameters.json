@@ -1,0 +1,30 @@
+{
+    "parameters": [
+        {
+            "expr": "1",
+            "name": "dia",
+            "value": "1"
+        },
+        {
+            "expr": "94.2",
+            "name": "l",
+            "value": "94.2"
+        },
+        {
+            "expr": "50",
+            "name": "g",
+            "value": "50"
+        },
+        {
+            "expr": "2.1",
+            "name": "h",
+            "value": "2.1"
+        },
+        {
+            "expr": "37",
+            "name": "off",
+            "value": "37"
+        }
+    ],
+    "version": 1
+}

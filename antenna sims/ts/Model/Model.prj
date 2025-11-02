@@ -1,0 +1,13 @@
+{
+   "Author": "VATSAL GOYAL",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "35,301",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:ts.cst?f4d2b0cd479720be4f9280e059c1671b?35842:numberofparameters=5:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::dia?g?h?l?off",
+   "ProjectVersion": "'# MWS Version: Version 2025.4 - Apr 11 2025 - ACIS 34.0.1 - Learning Edition",
+   "Results": "Time Domain: S-Parameter",
+   "Version": "3"
+}

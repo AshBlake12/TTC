@@ -1,9 +1,0 @@
-{29220} >2025-11-02 17:15:34.00292< matrixcalc_AMD64 @ Vatsals-PC: 1xN000:  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                                                                            The internal representation of discrete face port "discrete_face_port:1" overlaps with the internal representation of discrete face port "discrete_face_port:2". Maybe the mesh resolution is too coarse in this region.
-                                                                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-{29220} >2025-11-02 17:15:34.00318< matrixcalc_AMD64 @ Vatsals-PC: 1xN000:  The internal representation of discrete face port "discrete_face_port:1" overlaps with the internal representation of discrete face port "discrete_face_port:2". Maybe the mesh resolution is too coarse in this region.
-                                                                            Maybe geometry is too complex or mesh is too coarse in this region.
-                                                                            Please consider refining the geometry.
-
-

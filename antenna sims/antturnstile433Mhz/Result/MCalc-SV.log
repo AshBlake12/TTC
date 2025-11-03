@@ -1,6 +1,0 @@
-ParaControl_AMD64-1xN @ Vatsals-PC:  ===============================================================================================
-                                     17125.00 ms |          | SV-crop-all | Outside MCalcResultIdentification | 28.45 MB | 0.0000 MB
-                                     17127.00 ms |  --> 3rd | SV-crop-all |                        All meshes | 29.16 MB | 0.7086 MB
-                                     17146.00 ms | --> peak | SV-crop-all |                        All meshes | 29.16 MB | 0.0082 MB
-                                     17146.00 ms |  --> 2nd | SV-crop-all | Outside MCalcResultIdentification | 29.16 MB | 0.0000 MB
-                                     ===============================================================================================

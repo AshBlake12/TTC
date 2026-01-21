@@ -1,0 +1,4 @@
+Solver_HF_TD_AMD64 @ DESKTOP-7SP1ERU:  =======================================================================================================
+                                       704.00 ms | --> peak | SV-crop-all | Outside MCalcResultIdentification (Solver) | 54.21 MB |  0.0000 MB
+                                       707.00 ms |  --> 2nd | SV-crop-all | Outside MCalcResultIdentification (Solver) | 54.16 MB | -0.0492 MB
+                                       =======================================================================================================

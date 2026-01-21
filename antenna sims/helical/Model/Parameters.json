@@ -1,0 +1,47 @@
+{
+    "parameters": [
+        {
+            "descr": "Coil's height",
+            "expr": "145",
+            "name": "coil_cst_coil_h",
+            "value": "145"
+        },
+        {
+            "descr": "Coil's major radius",
+            "expr": "19.895",
+            "name": "coil_cst_coil_ra",
+            "value": "19.895"
+        },
+        {
+            "descr": "Coil's minor radius",
+            "expr": "19.895",
+            "name": "coil_cst_coil_ri",
+            "value": "19.895"
+        },
+        {
+            "descr": "Coil's segmentation angle",
+            "expr": "15",
+            "name": "coil_cst_coil_phi",
+            "value": "15"
+        },
+        {
+            "descr": "Coil's Nr of turns",
+            "expr": "5",
+            "name": "coil_cst_coil_N",
+            "value": "5"
+        },
+        {
+            "descr": "Coil's Orientation: 0 clockwise, 1 anti-clockwise",
+            "expr": "0",
+            "name": "coil_cst_coil_orientation",
+            "value": "0"
+        },
+        {
+            "descr": "Coil segmentation: 1 = segmented, 0 = spline",
+            "expr": "0",
+            "name": "coil_cst_coil_segmentation",
+            "value": "0"
+        }
+    ],
+    "version": 1
+}

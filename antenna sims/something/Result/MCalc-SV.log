@@ -1,0 +1,6 @@
+ParaControl_AMD64-1xN @ DESKTOP-7SP1ERU:  ===============================================================================================
+                                          14884.00 ms |          | SV-crop-all | Outside MCalcResultIdentification | 27.20 MB | 0.0000 MB
+                                          14908.00 ms |  --> 3rd | SV-crop-all |                        All meshes | 28.83 MB | 1.6343 MB
+                                          14913.00 ms | --> peak | SV-crop-all |                        All meshes | 28.84 MB | 0.0082 MB
+                                          14914.00 ms |  --> 2nd | SV-crop-all | Outside MCalcResultIdentification | 28.84 MB | 0.0000 MB
+                                          ===============================================================================================

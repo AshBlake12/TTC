@@ -1,0 +1,44 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "coil_cst_coil_h",
+         "type": "float",
+         "value": 145.0
+      },
+      {
+         "name": "coil_cst_coil_ra",
+         "type": "float",
+         "value": 19.895
+      },
+      {
+         "name": "coil_cst_coil_ri",
+         "type": "float",
+         "value": 19.895
+      },
+      {
+         "name": "coil_cst_coil_phi",
+         "type": "float",
+         "value": 15.0
+      },
+      {
+         "name": "coil_cst_coil_N",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "coil_cst_coil_orientation",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "coil_cst_coil_segmentation",
+         "type": "float",
+         "value": 0.0
+      }
+   ],
+   "outputVariables": []
+}

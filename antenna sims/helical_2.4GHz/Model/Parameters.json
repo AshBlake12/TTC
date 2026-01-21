@@ -1,0 +1,77 @@
+{
+    "parameters": [
+        {
+            "descr": "Coil's height",
+            "expr": "156.25",
+            "name": "coil_cst_coil_h",
+            "value": "156.25"
+        },
+        {
+            "descr": "Coil's major radius",
+            "expr": "19.895",
+            "name": "coil_cst_coil_ra",
+            "value": "19.895"
+        },
+        {
+            "descr": "Coil's minor radius",
+            "expr": "19.895",
+            "name": "coil_cst_coil_ri",
+            "value": "19.895"
+        },
+        {
+            "descr": "Coil's segmentation angle",
+            "expr": "15",
+            "name": "coil_cst_coil_phi",
+            "value": "15"
+        },
+        {
+            "descr": "Coil's Nr of turns",
+            "expr": "5",
+            "name": "coil_cst_coil_N",
+            "value": "5"
+        },
+        {
+            "descr": "Coil's Orientation: 0 clockwise, 1 anti-clockwise",
+            "expr": "0",
+            "name": "coil_cst_coil_orientation",
+            "value": "0"
+        },
+        {
+            "descr": "Coil segmentation: 1 = segmented, 0 = spline",
+            "expr": "0",
+            "name": "coil_cst_coil_segmentation",
+            "value": "0"
+        },
+        {
+            "expr": "2",
+            "name": "wire_dia",
+            "value": "2"
+        },
+        {
+            "expr": "31.25",
+            "name": "l_coax",
+            "value": "31.25"
+        },
+        {
+            "expr": "8.08",
+            "name": "d_teflon",
+            "value": "8.08"
+        },
+        {
+            "expr": "1",
+            "name": "offset_coax",
+            "value": "1"
+        },
+        {
+            "expr": "2",
+            "name": "h_reflector",
+            "value": "2"
+        },
+        {
+            "expr": "137.5",
+            "name": "gnd_dia",
+            "value": "137.5"
+        }
+    ],
+    "version": 1
+}

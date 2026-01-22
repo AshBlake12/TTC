@@ -32,7 +32,7 @@ This calls for a high data rate of transmission which in turn increases power co
 
 ## Current Team  
 
-- Dhirsh Bhansali  
+- Dhrish Bhansali  
 - Ashish ("do you know what a number is? No u dont")
 - Shashank Saha  
 - Harsh Lakshakar  

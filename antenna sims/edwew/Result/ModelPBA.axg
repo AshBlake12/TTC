@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Ports\port1" id="7">
+      <Cone position="3.5 0 13" direction="1 0 0" dimension="10 10 10" material="$PortMaterial$" text="1" short="1"/>
+      <LineSet points="2 0 13 5 0 13" stripped="1" material="$WireMaterial$"/>
+      <LineSet points="2 0 13 5 0 13" stripped="1" material=""/>
+    </Object>
+    <Object name="Ports\port2" id="8">
+      <Cone position="-3.5 0 13" direction="-1 0 0" dimension="10 10 10" material="$PortMaterial$" text="2" short="2"/>
+      <LineSet points="-2 0 13 -5 0 13" stripped="1" material="$WireMaterial$"/>
+      <LineSet points="-2 0 13 -5 0 13" stripped="1" material=""/>
+    </Object>
+  </Objects>
+  <Materials>
+    <Material name="$noSnappingMaterial$">
+      <Drawstyle color="0 0 0" transparency="0" linestrength="5"/>
+    </Material>
+    <Material name="">
+      <Drawstyle color="0 0 0.949999988" transparency="0.600000024" linestrength="0"/>
+    </Material>
+  </Materials>
+  <Groups/>
+</CSTAuxiliaryGeometry>
